@@ -5,4 +5,11 @@
     <string name="menu_settings">Settings</string>
     <string name="title_activity_maro_map">MaroMap</string>
 
+	<string name="search_gps">GPS情報を取得中です…</string>
+	<string name="search_err_system_setup">システム設定で現在地情報を有効にしてください</string>
+	<string name="search_progress">お店を検索中です…</string>
+	<string name="search_gpserror">GPS情報が取得できません</string>
+	<string name="search_err">検索に失敗しました</string>
+	<string name="search_result">検索結果は%s件です</string>
+	<string name="search_accurancy"> GPSの精度は%sｍです</string>
 </resources>
